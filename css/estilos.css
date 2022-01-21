@@ -43,3 +43,13 @@ body
 {
     padding: 1em;
 }
+
+#footer
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    background-color: black;
+    color: blanchedalmond;
+    padding: 0.1em 0 0.1em 0;
+}
